@@ -1,5 +1,5 @@
-#### Link download termux : https://f-droid.org/repo/com.termux_117.apk 
-jika sudah di download buka aplikasi nya, lalu install dengan ketikan perintah di bawah ini :
+Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> Jika Sudah lalu buka aplikasinya Dan ketikan perintah dibawah ini.
+ :
 ````bash
 pkg update && pkg upgrade 
 pkg install python 
